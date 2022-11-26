@@ -16,7 +16,7 @@ interface IconPickerProps {
   searchInputStyles?: CSS.Properties
 }
 
-const IconPicker: React.SFC<IconPickerProps> = ({
+const IconPicker: React.FC<IconPickerProps> = ({
   value,
   onChange,
   hideSearch,
