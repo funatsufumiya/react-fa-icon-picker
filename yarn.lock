@@ -168,13 +168,6 @@
   dependencies:
     "@types/react" "^17"
 
-"@types/react-native@*":
-  "integrity" "sha512-mo2DAgliCqdNyivBa0/JL8JIkebt9TU0ATmsvtUvypIP5qN+YJekbVPpHt6WLXEZyBm7LtmIqxbjIHqeoaojsg=="
-  "resolved" "https://registry.npmjs.org/@types/react-native/-/react-native-0.63.1.tgz"
-  "version" "0.63.1"
-  dependencies:
-    "@types/react" "*"
-
 "@types/react@*", "@types/react@^17", "@types/react@^17.0.1":
   "integrity" "sha512-vwk8QqVODi0VaZZpDXQCmEmiOuyjEFPY7Ttaw5vjM112LOq37yz1CDJGrRJwA1fYEq4Iitd5rnjd1yWAc/bT+A=="
   "resolved" "https://registry.npmjs.org/@types/react/-/react-17.0.52.tgz"
@@ -189,15 +182,14 @@
   "resolved" "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.2.tgz"
   "version" "0.16.2"
 
-"@types/styled-components@^5.1.0":
-  "integrity" "sha512-fIjKvDU1LJExBZWEQilHqzfpOK4KUwBsj5zC79lxa94ekz8oDQSBNcayMACBImxIuevF+NbBGL9O/2CQ67Zhig=="
-  "resolved" "https://registry.npmjs.org/@types/styled-components/-/styled-components-5.1.1.tgz"
-  "version" "5.1.1"
+"@types/styled-components@^5.1.26":
+  "integrity" "sha512-KuKJ9Z6xb93uJiIyxo/+ksS7yLjS1KzG6iv5i78dhVg/X3u5t1H7juRWqVmodIdz6wGVaIApo1u01kmFRdJHVw=="
+  "resolved" "https://registry.npmjs.org/@types/styled-components/-/styled-components-5.1.26.tgz"
+  "version" "5.1.26"
   dependencies:
     "@types/hoist-non-react-statics" "*"
     "@types/react" "*"
-    "@types/react-native" "*"
-    "csstype" "^2.2.0"
+    "csstype" "^3.0.2"
 
 "ansi-regex@^2.0.0":
   "integrity" "sha1-w7M6te42DYbg5ijwRorn7yfWVN8="
@@ -448,7 +440,7 @@
     "css-color-keywords" "^1.0.0"
     "postcss-value-parser" "^4.0.2"
 
-"csstype@^2.2.0", "csstype@^2.6.21":
+"csstype@^2.6.21":
   "integrity" "sha512-Z1PhmomIfypOpoMjRQB70jfvy/wxT50qW08YXO5lMIJkrdq4yOTR+AW7FqutScmB9NkLwxo+jU+kZLbofZZq/w=="
   "resolved" "https://registry.npmjs.org/csstype/-/csstype-2.6.21.tgz"
   "version" "2.6.21"
