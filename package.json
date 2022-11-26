@@ -1,6 +1,6 @@
 {
   "name": "react-fa-icon-picker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An icon picker for font-awesome icons",
   "main": "dist/index.js",
   "scripts": {
@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/DATechnologies/react-fa-icon-picker#readme",
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "files": [
     "dist"
